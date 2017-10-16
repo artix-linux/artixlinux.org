@@ -29,6 +29,9 @@ mount /dev/sda3 /mnt/home  <- only if exist
 The first step is check the network connection. For example:
 <code>ping github.com
 </code>
+Update repositories:
+<code>pacman -Syy
+</code>
 Install pacstrap into installer, for default, pacstrap is not installed, you can install it with:
 <code>pacman -S arch-install-scripts
 </code>
@@ -100,7 +103,7 @@ rc-update add xdm default
 Or you can use .xinitrc to launch DE, edit (or create) "~/.xinitrc" and add:
 <code>exec mate-session</code>
 Mate desktop and other apps need systemd, for compatibility you can install a compatibility package:
-<code>libsystemd0-shim</code>
+<code>libsystemd-dummy</code>
 If everything went well and you should have your Artix system installed, obviously it may require more configuration depending on your needs.
 
 <?php
