@@ -10,6 +10,9 @@ include('header.html');
 </center>
 <br><br>
 
+<h1 id="171015"><span itemprop="name">2017-10-15 -- New LXQT ISO</h1>
+Get it from <a href="download.php">our mirrors</a>.
+<br><br>
 
 <h1 id="170912"><span itemprop="name">2017-09-12 -- New primary mirror</h1>
 We are moving our package repos away from Sourceforge hosting, main reason being the restriction of colon characters (':') in filenames, which breaks the package database with epoch-versioned packages.
