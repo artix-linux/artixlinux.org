@@ -127,7 +127,7 @@ Some additional configuration may still be needed, especially with regards to de
 </div>
 
 <?php
-$nexttitle="Installation from base";
-$nextfile="installation.php";
+$nexttitle="Installation";
+$nextfile="install .php";
 include('footer.html');
 ?>
