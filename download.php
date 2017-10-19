@@ -17,9 +17,9 @@ include('header.html');
 </ul>
 
 <code>SHA256 sums
+d0165f6fdc38be8737bb359ef276b4745da2f4271c5cbc7cfffd1ef6810c824a  artix-lxqt-20171015-x86_64.iso
 2c3aec9f75c28434fd1ce1bfa295bf2ca816957e3efc388c60ad441807a2618d  artix-base-rolling-x86_64.iso
 b861deacb42011423e0f1c8d6f1476ba5589778117eddfc898737b161289655d  artix-i3-rolling-x86_64.iso
-df8e292b7a882ed7e325534056e0f1c7b165d9c9dc4a34255d686a6f48aba3ec  artix-lxqt-rolling-x86_64.iso
 </code>
 </div>
 

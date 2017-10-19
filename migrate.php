@@ -4,6 +4,10 @@ include('header.html');
 ?>
 
 <div class="holder">
+<center><br><br><br><br><h0>Migration</h0></p>
+<br><br><br>
+</center>
+
 <br><br><h0>Migration guide from Arch or Manjaro to Artix</h0></p>
 <br>
 <h1>All commands below must be run as root.</h1>
